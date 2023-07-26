@@ -14,7 +14,7 @@ node --version
 firebase init
 ```
 
-# To start the server
+# To start the development server
 
 ```css
 npm run serve
